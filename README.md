@@ -2,6 +2,7 @@ Android Kotlin app to list Crypto currencies from free json source
 
 App Stack is
 Kotlin
+Compose (not XML)
 Clean Architecture (Use Cases) + MVVM (Model View ViewModel)
 Dagger Hilt Dependency Injection (Inversion of Control IoC)
 
